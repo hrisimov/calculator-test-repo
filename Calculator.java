@@ -1,3 +1,4 @@
+// Comment added from GitHub
 public class Calculator {
 
     // Method for addition. Updated from GitHub
