@@ -13,6 +13,7 @@ public class Calculator {
     }
 
     // Method for multiplication
+    // Comment added from GitHub
     public double multiply(double a, double b) {
         return a * b;
     }
