@@ -12,6 +12,9 @@ public class Calculator {
     }
 
     // Method for multiplication
+    // Comment1
+    // Comment2
+    // Comment3
     public double multiply(double a, double b) {
         return a * b;
     }
