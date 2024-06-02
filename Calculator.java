@@ -1,3 +1,4 @@
+// Feature branch
 public class Calculator {
 
     // Method for addition. Updated from GitHub
